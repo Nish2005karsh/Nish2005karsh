@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishkarsh Pandey</h1>
-<h3 align="center">Passionate Full Stack developer from India | Cybersecurity explorer 🔐</h3>
+<h3 align="center">Passionate Full Stack developer from India </h3>
 
 - 🌱 I’m currently learning **React and TypeScript**
 
@@ -30,4 +30,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nish2005karsh/Nish2005karsh/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Nish2005karsh/Nish2005karsh/output/github-snake.svg" />
 </picture>
+
 
