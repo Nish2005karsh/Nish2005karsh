@@ -184,8 +184,14 @@ const nishkarsh = {
   </a>
 </p>
 
----
 
+---
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nish2005karsh/Nish2005karsh/output/github-snake-dark.svg" />
+</p>
+
+---
 ### 💭 Random Dev Quote
 
 <p align="center">
@@ -201,3 +207,4 @@ const nishkarsh = {
 <p align="center">
   <i>⭐️ From <a href="https://github.com/nish2005karsh">Nishkarsh Pandey</a> - Let's build something amazing together!</i>
 </p>
+
