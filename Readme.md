@@ -131,7 +131,10 @@ const nishkarsh = {
   <img src="https://nirzak-streak-stats.vercel.app/?user=nish2005karsh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nish2005karsh&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nish2005karsh&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
 
 
 
@@ -207,6 +210,7 @@ const nishkarsh = {
 <p align="center">
   <i>⭐️ From <a href="https://github.com/nish2005karsh">Nishkarsh Pandey</a> - Let's build something amazing together!</i>
 </p>
+
 
 
 
