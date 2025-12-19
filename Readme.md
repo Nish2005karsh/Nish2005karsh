@@ -128,11 +128,11 @@ const nishkarsh = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nish2005karsh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nish2005karsh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nish2005karsh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nish2005karsh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
 </p>
 
 ---
