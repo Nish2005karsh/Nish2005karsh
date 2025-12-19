@@ -39,16 +39,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nish2005karsh&layout=compact&theme=tokyonight&hide_border=true)
 
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nish2005karsh&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nish2005karsh&theme=monokai&no-frame=true&no-bg=true&margin-w=15)
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nis2005karsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Nish2005karsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
