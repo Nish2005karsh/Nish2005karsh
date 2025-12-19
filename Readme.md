@@ -34,12 +34,22 @@
 </picture>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nish2005karsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nish2005karsh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nish2005karsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nish2005karsh&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nish2005karsh&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nish2005karsh&layout=compact&theme=tokyonight&hide_border=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Nish2005karsh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nish2005karsh&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nis2005karsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
