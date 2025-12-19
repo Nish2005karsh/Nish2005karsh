@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **The name "Python" for the programming language wasn’t inspired by the snake — it was actually named after the British comedy group Monty Python!**
 
+- ![Profile views](https://komarev.com/ghpvc/?username=rishabh1230&label=Profile%20views&color=0e75b6&style=flat)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nish2005karsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nish2005karsh" height="30" width="40" /></a>
@@ -38,6 +40,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nish2005karsh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
