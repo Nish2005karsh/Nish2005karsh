@@ -119,6 +119,80 @@ const nishkarsh = {
 </details>
 
 ---
+## 🚀 Featured Projects
+
+### 1. Calorie Tracker
+**Smart Calorie Tracking App**  
+Built a full-stack app to log daily food intake, calculate calories, and visualize nutritional progress.  
+**Tech:** React (TSX), Clerk (Auth), Supabase (DB), ShadCN UI, n8n (workflow)  
+**Highlights:**  
+- Log meals and track daily nutritional goals  
+- Visual progress summaries and insights  
+- Automated workflows for calorie analysis  
+[GitHub](https://github.com/Nish2005karsh/Calorie-tracker)
+
+---
+
+### 2. WikiSnap
+**Interactive Wikipedia Reader**  
+Story-based Wikipedia reader with Snapchat-style interface for fast and engaging learning.  
+**Tech:** React, JavaScript, Wikipedia API  
+**Highlights:**  
+- Swipe-based content consumption  
+- Bite-sized summaries with distraction-free reading  
+- Responsive UI for mobile & desktop  
+[GitHub](https://github.com/Nish2005karsh/WikiSnap)
+
+---
+
+### 3. PrepWise
+**AI-Powered Interview Prep Platform**  
+Real-time voice mock interviews powered by Vapi AI with performance analytics.  
+**Tech:** Next.js, TypeScript, Firebase, Vapi AI  
+**Highlights:**  
+- Adaptive question generation  
+- Performance tracking & analytics dashboard  
+- Voice-based mock interviews  
+[GitHub](https://github.com/Nish2005karsh/PrepWise)
+
+---
+
+### 4. JobHunt
+**Full-Stack Job Application Platform**  
+Platform for exploring jobs, creating profiles, and applying instantly.  
+**Tech:** React, MongoDB, Node.js, Express, TailwindCSS  
+**Highlights:**  
+- Company dashboards & application tracking  
+- Clean, modern UI inspired by real job portals  
+- Optimized for user engagement  
+[GitHub](https://github.com/Nish2005karsh/Job-Portal)
+
+---
+
+### 5. MedScript AI
+**AI-Powered Healthcare Tool**  
+Converts handwritten medical prescriptions into safe, digital, and understandable formats.  
+**Tech:** Gemini 3 Pro (Multimodal AI), JavaScript, Python  
+**Highlights:**  
+- Extracts medicines, dosages, and doctor notes  
+- Risk analysis: drug interactions, overdose, age-based risks  
+- Audio instructions & multi-language support  
+[GitHub](https://github.com/Nish2005karsh/MedScripts-AI)
+
+---
+
+### 6. URL Masker (MASKGOD)
+**URL Masking Tool for Ethical Hacking**  
+Clean, legit-looking URL masking tool for educational & ethical hacking use cases.  
+**Tech:** JavaScript, Node.js, HTML/CSS  
+**Highlights:**  
+- Mask URLs for safe, ethical testing  
+- Easy-to-use interface  
+- Inspired by SPYBOY's Facad1ng and open-source community  
+[GitHub](https://github.com/Nish2005karsh/URLMasking)
+
+
+---
 
 ### 📊 GitHub Analytics
 
@@ -210,6 +284,7 @@ const nishkarsh = {
 <p align="center">
   <i>⭐️ From <a href="https://github.com/nish2005karsh">Nishkarsh Pandey</a> - Let's build something amazing together!</i>
 </p>
+
 
 
 
